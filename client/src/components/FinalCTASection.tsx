@@ -35,7 +35,7 @@ export default function FinalCTASection({ onCtaClick }: FinalCTASectionProps) {
           <div className="flex flex-col items-center gap-6">
             <Button 
               size="lg" 
-              className="text-lg px-12 py-6 h-auto"
+              className="text-lg px-12 py-6 h-auto flex-1 text-wrap"
               onClick={onCtaClick}
               data-testid="button-cta-final"
             >

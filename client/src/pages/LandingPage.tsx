@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import PainSection from "@/components/PainSection";
 import TransformationSection from "@/components/TransformationSection";
@@ -21,17 +22,24 @@ export default function LandingPage() {
 
   return (
     <div className="min-h-screen">
+      <Header />
       <HeroSection onCtaClick={handleCtaClick} />
       <PainSection />
       <TransformationSection />
       <CourseStackSection />
-      <ModulesSection />
-      <BenefitsSection />
+      <div id="modulos">
+        <ModulesSection />
+      </div>
+      <div id="beneficios">
+        <BenefitsSection />
+      </div>
       <GuaranteeSection onCtaClick={handleCtaClick} />
       <div id="pricing">
         <PricingSection onCtaClick={handleCtaClick} />
       </div>
-      <FAQSection />
+      <div id="faq">
+        <FAQSection />
+      </div>
       <FinalCTASection onCtaClick={handleCtaClick} />
     </div>
   );
