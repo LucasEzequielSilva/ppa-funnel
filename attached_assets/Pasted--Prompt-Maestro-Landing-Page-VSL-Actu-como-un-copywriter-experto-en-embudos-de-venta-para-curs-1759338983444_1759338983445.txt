@@ -1,0 +1,53 @@
+📝 Prompt Maestro – Landing Page VSL
+
+Actuá como un copywriter experto en embudos de venta para cursos online.
+Quiero que me armes la landing page completa estilo VSL 2.0, lista para maquetar, para vender el curso:
+“De Invisible a Referente Legal en 30 Días con IA”.
+
+🎯 Datos clave del producto:
+
+Público objetivo: abogados noveles en ejercicio privado (recién recibidos o con pocos años de experiencia) que sienten vergüenza de mostrarse en redes y no tienen clientes predecibles.
+
+Dolor principal: invisibilidad → “me da vergüenza grabarme, no quiero parecer vendehumo” → pierden clientes y prestigio.
+
+Transformación prometida: pasar de invisible a referente digital en 30 días → perfil optimizado, calendario de 30 días de publicaciones, sistema de captación simple, prestigio online, primeras consultas reales.
+
+Diferencial: uso de IA (custom GPTs y prompts listos) para ahorrar tiempo y generar contenido legal de forma simple.
+
+Precio: low ticket USD 47–97.
+
+Stack de la oferta: curso grabado (6 módulos), plantillas de bio y posts, calendario 30 días, tutoriales técnicos, comunidad privada.
+
+📚 Estructura que quiero que desarrolles:
+
+Hero / Above the fold: título, subtítulo, CTA.
+
+Sección dolor: storytelling + identificación.
+
+Promesa / Transformación: qué lograrán en 30 días.
+
+Stack de la oferta: lo que incluye el curso (con valor percibido).
+
+Detalle de módulos: 6 bloques explicados en copy persuasivo.
+
+Beneficios con ejemplos reales: (ej. Majo invitada a dar clase paga gracias a redes).
+
+Garantía: cero riesgo.
+
+CTA fuerte con urgencia y escasez.
+
+Sección FAQs: responder objeciones típicas (“¿y si no tengo tiempo?”, “¿y si me da vergüenza grabar?”, “¿funciona si tengo pocos seguidores?”).
+
+📢 Estilo de comunicación:
+
+Palabras clave: prestigio, ejercicio privado, consultas, novel abogado.
+
+Evitar jerga marketinera (no usar “ventas, ROAS, funnel”, salvo en explicaciones técnicas muy simples).
+
+Tono: cercano, profesional y motivador. Nunca vendehumo.
+
+Extensión: texto completo, con subtítulos, bullets, analogías y frases de impacto listas para poner en web.
+
+🎥 Además: escribí el texto como si fuera un guion de VSL narrado en primera persona (Majo), que después puedo transformar en video.
+
+📌 Con este prompt, la IA debería devolverte un texto listo para maquetar en la página y grabar como VSL.
